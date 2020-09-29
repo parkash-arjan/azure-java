@@ -1,13 +1,13 @@
-package purchaseservice.javaazure;
+package application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaAzureApplication {
+public class PurchaseServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaAzureApplication.class, args);
+		SpringApplication.run(PurchaseServiceApplication.class, args);
 	}
 
 }
