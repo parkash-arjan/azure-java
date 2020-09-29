@@ -6,10 +6,10 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 @ComponentScan(basePackages = { "com.product" })
-public class JavaAzureApplication {
+public class ProductServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaAzureApplication.class, args);
+		SpringApplication.run(ProductServiceApplication.class, args);
 	}
 
 }
