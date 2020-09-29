@@ -11,7 +11,7 @@
 	<groupId>purchase-service</groupId>
 	<artifactId>java-azure</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>java-azure</name>
+	<name>purchase-service</name>
 	<description>purchase service will call product service </description>
 
 	<properties>

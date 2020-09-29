@@ -11,7 +11,7 @@
 	<groupId>product-service</groupId>
 	<artifactId>java-azure</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>java-azure</name>
+	<name>product-service</name>
 	<description>product service to show list of products along with price</description>
 
 	<properties>
