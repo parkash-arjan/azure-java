@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  purchase-service:
+    image: parkasharjan/purchase-service:0.0.1-SNAPSHOT
+    ports:
+      - "9090:8080"
+    restart: always
+
+  product-service:
+    image: parkasharjan/product-service:0.0.1-SNAPSHOT
+    ports:
+      - "9091:8080"
+    restart: always
