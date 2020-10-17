@@ -18,7 +18,7 @@ public class ProductDao {
 
 		products = new ArrayList<>(
 				Arrays.asList(
-						new Product(401L, "Fan", 20.20f), 
+						new Product(401L, "Fan----------", 20.20f),
 						new Product(402L, "Pen", 2.0f),
 						new Product(403L, "Book", 25.99f), 
 						new Product(404L, "Light Bulb", 4.99f)));
